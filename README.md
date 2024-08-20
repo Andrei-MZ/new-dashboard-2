@@ -3,9 +3,13 @@
     📊 Painel de Gráficos 📊
 </h1>
 
+<div>
+<h2>Web</h2>
 <img src="./public/web.PNG">
+<h2>Mobile</h2>
 <img src="./public/mobile.PNG">
 <img src="./public/mobile2.PNG">
+</div>
 
 ## 🚀 Sobre 
 
