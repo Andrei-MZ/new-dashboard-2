@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<h1 align="center">
+    📊 Painel de Gráficos 📊
+</h1>
 
-First, run the development server:
+<img src="./public/web.PNG">
+<img src="./public/mobile.PNG">
+<img src="./public/mobile2.PNG">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Sobre 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**📈 Visão Geral:**
+Este projeto foi desenvolvido com o intuito de aprofundar meus conhecimentos em frontend, explorando o uso do shadcn/ui para criar interfaces de usuário modernas e acessíveis. Ao longo do desenvolvimento, implementei diferentes componentes fornecidos pelo shadcn/ui, testando sua flexibilidade e personalização em cenários reais. Este projeto serviu como uma excelente oportunidade para experimentar novas práticas de design de interface, melhorar a usabilidade e entender melhor as nuances de um framework UI baseado em componentes.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🔨 Tecnologias e Ferramentas
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Javascript
+- Typescript
+- React
+- Nextjs
+- Tailwind
+- Shadcn/ui
 
-## Learn More
+## Link Projeto
 
-To learn more about Next.js, take a look at the following resources:
+<h1>Clique aqui para ir para o projeto ➡ <a href="https://dashboard-estudos.vercel.app/">Painel </a> 
+</h1> 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Shadcn/ui
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<h1>https://ui.shadcn.com/</h1>
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
